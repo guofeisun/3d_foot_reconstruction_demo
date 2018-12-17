@@ -1,5 +1,5 @@
 *.pyc
-!/model/
+!/model
 /model/*
-!/data/
+!/data
 /data/*
