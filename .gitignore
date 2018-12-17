@@ -1,5 +1,3 @@
 *.pyc
 model/*
 data/*
-!model
-!data
