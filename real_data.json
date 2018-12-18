@@ -1,8 +1,0 @@
-{
-    "data_path": "./data/",
-    "data_list": ["ajl", "dqf", "dwx", "hfl", "hl", "hy", "ljk", "lzj", "lzy", "mjq", "sgf", "whl", "wsz", "wx", "wxy", "wyw", "xq", "yrc", "zch", "zc", "zkw", "zxh"],
-    "model_path": "./model/train_mod/",
-    "model_id": 9,
-    "save_path": "./data/mv_results/",
-    "sample_number": 10
-}
