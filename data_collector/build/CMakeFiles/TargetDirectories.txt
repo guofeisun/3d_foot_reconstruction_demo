@@ -1,3 +1,0 @@
-/home/sunguofei/proj/SunGuofei/3d_foot_reconstruction_demo/data_collector/build/CMakeFiles/rebuild_cache.dir
-/home/sunguofei/proj/SunGuofei/3d_foot_reconstruction_demo/data_collector/build/CMakeFiles/edit_cache.dir
-/home/sunguofei/proj/SunGuofei/3d_foot_reconstruction_demo/data_collector/build/CMakeFiles/collector.dir
