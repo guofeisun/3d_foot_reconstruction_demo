@@ -1,2 +1,4 @@
 *.pyc
 /model/*
+/data_collector/build/*
+*.oni
