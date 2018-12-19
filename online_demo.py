@@ -13,6 +13,7 @@ from utils import *
 import binvox_rw as brw
 
 os.environ["CUDA_VISIBLE_DEVICES"] = "0"
+cwd = os.getcwd()
 
 class demo:
     def __init__(self):
@@ -61,3 +62,4 @@ class demo:
         ###### reconstruct and save mesh
         poisson_reconstruction('/pc.obj', '/mesh.obj', folder_name, folder_name)
         print('mesh reconstruction complete.')
+        os.system('meshlab ' + cwd + '/' + folder_name + '/mesh.obj')

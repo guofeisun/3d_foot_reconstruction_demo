@@ -31,6 +31,10 @@
 环境配置
 - ubuntu 16.04系统
 
+安装最新版meshlab(2016.12版本)
+- sudo add-apt-repository ppa:zarquon42/meshlab
+- sudo apt-get isntall meshlab
+
 创建虚拟环境（建议使用anaconda）
 - conda create -n 3d_foot_reconstruction python=2.7
 - source activate 3d_foot_reconstruction
